@@ -1,0 +1,25 @@
+cluster_num,cluster_desc,gender,percentage
+0,Neutral,male,15.9
+0,Neutral,female,6.1
+0,Neutral,diff,-9.8
+1,Engaged in activity,male,29.7
+1,Engaged in activity,female,14.3
+1,Engaged in activity,diff,-15.4
+2,Casual,male,12.9
+2,Casual,female,11.2
+2,Casual,diff,-1.7
+3,Confident,male,9.4
+3,Confident,female,17.6
+3,Confident,diff,9.2
+4,Seductive,male,0.2
+4,Seductive,female,16.8
+4,Seductive,diff,16.6
+5,Affectionate,male,14.6
+5,Affectionate,female,12.5
+5,Affectionate,diff,-2.1
+6,Cheerful,male,10.1
+6,Cheerful,female,12.1
+6,Cheerful,diff,2.0
+7,Contemplative,male,7.2
+7,Contemplative,female,9.4
+7,Contemplative,diff,2.2
